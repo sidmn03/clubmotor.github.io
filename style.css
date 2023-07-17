@@ -1,0 +1,96 @@
+.header {
+    background-color: cornflowerblue;
+    padding: 20px 0;
+    /* text-align: center; */
+    color: black;
+    font-size: 24px;
+    /* background-image: url(../image/windows-unsplash.jpg); */
+    /* background-size: cover;
+    background-position: center; */
+}
+
+.logo {
+    margin: 0 0 10px 10px;
+    width: 140px;
+    height: 100px;
+    float: left;
+}
+
+.judul {
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 0;
+    margin: 22px;
+
+}
+
+.card {
+    box-shadow: 4px 4px 8px 1px rgba(76, 38, 214, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.card2 {
+    box-shadow: 4px 4px 8px 1px rgba(76, 38, 214, 0.2);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px;
+}
+
+.footer {
+    box-shadow: 4px 4px 8px 1px rgba(76, 38, 214, 0.2);
+    border-radius: 10px;
+    padding: 0;
+    margin: 0;
+    margin-top: 40px;
+}
+
+.img {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding: 15px 0;
+    margin-bottom: 15px;
+}
+
+.img-2 {
+    width: 400px;
+    height: 200px;
+    float: right;
+
+}
+
+#label-page {
+    margin: 6px;
+    border: 2px solid #c4c4c4;
+    padding: 4px;
+    width: 97.9%;
+    background-color: lightgray;
+}
+
+#content {
+    float: left;
+    width: 96.8%;
+    min-height: 454px;
+    /* background-image: ; */
+    border: 2px solid #c4c4c4;
+    padding: 10px;
+    margin-bottom: 6px;
+}
+
+#beranda-judul {
+    padding-left: 20px;
+    text-align: center;
+    padding: 20px;
+    /* background-color: ; */
+}
+
+#beranda-konten {
+    text-align: justify;
+    padding: 20px 30px;
+    color: black;
+    background-color: lightgray;
+}
